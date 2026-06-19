@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Currently building applications with React, Node.js and PostgreSQL
+  React • Node.js • PostgreSQL • PHP
 </p>
 
 <p align="center">
@@ -19,36 +19,55 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Web Application Development (DAW) graduate from Spain.
+I'm a DAW graduate from Spain with a passion for web development and continuous learning.
 
-I enjoy building real-world projects, learning modern technologies, and continuously improving my skills as a developer.
+I have experience working with PHP, JavaScript, MySQL and CodeIgniter, and I'm currently expanding my skills through personal projects using React, Node.js and PostgreSQL.
 
-Currently focused on:
+I enjoy building practical applications, solving problems and learning modern technologies through hands-on experience.
 
+---
+
+## 🚀 Currently Learning
+
+- React ecosystem and modern frontend development
+- Backend development with Node.js and Express
+- PostgreSQL database design
+- REST API development
+- Team collaboration and agile workflows
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
 - React
+
+### Backend
 - Node.js
+- Express
+- PHP
+- CodeIgniter
+
+### Databases
 - PostgreSQL
-- REST APIs
-- Full Stack Development
+- MySQL
+
+### Tools
+- Git
+- GitHub
 
 ---
 
-## Current Projects
+## 🌍 Languages
 
-### Tournament Management System
-Full stack application focused on dance competitions and event management.
-
-### Frontend Developer Practicum
-Collaborating with an international team on frontend and consulting projects.
+- Spanish (Native)
+- English (Working proficiency)
 
 ---
 
-## Technologies
-
-JavaScript • React • Node.js • PHP • PostgreSQL • MySQL • Git • HTML • CSS
-
----
-
-> "Always learning, always building."
+> Building projects, learning every day and growing as a developer.
