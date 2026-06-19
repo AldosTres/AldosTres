@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/aldo-brando-pangoza-ar%C3%A9valo-90957b3a5/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:aldopangoza@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -24,8 +24,6 @@
 I'm a DAW graduate from Spain with a passion for web development and continuous learning.
 
 I have experience working with PHP, JavaScript, MySQL and CodeIgniter, and I'm currently expanding my skills through personal projects using React, Node.js and PostgreSQL.
-
-I enjoy building practical applications, solving problems and learning modern technologies through hands-on experience.
 
 ---
 
@@ -69,5 +67,3 @@ I enjoy building practical applications, solving problems and learning modern te
 - English (Working proficiency)
 
 ---
-
-> Building projects, learning every day and growing as a developer.
